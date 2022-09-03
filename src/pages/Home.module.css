@@ -1,0 +1,5 @@
+.background {
+  background-color: var(--light-mode-background);
+  height: 100vh;
+  padding: 12rem 6rem;
+}

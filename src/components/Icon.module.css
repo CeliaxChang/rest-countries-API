@@ -1,0 +1,9 @@
+.icon {
+  display: flex;
+  align-items: center;
+}
+
+.search ion-icon {
+  color: var(--light-Mode-input);
+  --ionicon-stroke-width: 60px;
+}
