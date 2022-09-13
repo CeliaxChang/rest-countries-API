@@ -1,0 +1,10 @@
+.background {
+  background-color: var(--background);
+  height: 100vh;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  transition: all .2s;
+
+  position: relative;
+}

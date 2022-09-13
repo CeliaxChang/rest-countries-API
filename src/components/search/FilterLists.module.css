@@ -1,0 +1,23 @@
+.container {
+  width: 100%;
+  padding: 1rem 0;
+  background-color: var(--primary);
+  position: absolute;
+  top:111%;
+  left: 0;
+  z-index: 10;
+}
+
+.list {
+  list-style: none;
+}
+
+.item{
+  padding: .8rem 2rem;
+  cursor: pointer;
+  transition: all .2s;
+}
+
+.item:hover{
+  background-color: var(--hover);
+}

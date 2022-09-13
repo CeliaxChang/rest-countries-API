@@ -1,0 +1,14 @@
+.container {
+  display: flex;
+  align-items: center;
+}
+
+.search ion-icon {
+  color: var(--input);
+  --ionicon-stroke-width: 60px;
+  font-size: 2rem;
+}
+
+.back ion-icon{
+  font-size: 2rem;
+}

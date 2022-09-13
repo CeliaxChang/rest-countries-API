@@ -1,0 +1,13 @@
+.container{
+  border-radius: var(--border-radius);
+  box-shadow: 1px 1px 7px -2px var(--shadow);
+  border: none;
+  transition: all 0.2s ease-in-out;
+  cursor: pointer;
+}
+
+.container:active,
+.container:hover{
+  background-color:var(--hover);
+  box-shadow: 1px 1px 6px -3px var(--shadow-dark);
+}

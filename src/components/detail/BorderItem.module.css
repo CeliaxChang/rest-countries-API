@@ -1,0 +1,14 @@
+.content {
+  background-color: var(--primary);
+  padding: 0.6rem 1rem;
+  transition: all 0.2s ease-in-out;
+  color: var(--text);
+  text-align: center;
+  font-size: 1.2rem;
+}
+
+.content:active,
+.content:hover {
+  background-color: var(--hover);
+  box-shadow: 1px 1px 6px -3px var(--shadow-dark);
+}
