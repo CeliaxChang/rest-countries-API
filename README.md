@@ -11,7 +11,7 @@ This is a solution to the [REST Countries API with color theme switcher challeng
  
 ## Link
 
-- Live Site URL: [REST Countries API with color theme switcher](https://rest-countries-api-ddb15.web.app/countries)
+Live Site URL: [REST Countries API with color theme switcher](https://rest-countries-api-ddb15.web.app/countries)
 
 
 ## The challenge
@@ -27,10 +27,8 @@ Users should be able to:
 
 ## Screenshot
 
-![](./screenshot.jpg)
-
-
-
+![](./country-light.png)
+![](./country-dark.png)
 
 ## Built with
 
